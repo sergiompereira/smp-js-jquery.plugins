@@ -1,0 +1,2 @@
+smp-js-jquery.plugins
+=====================
