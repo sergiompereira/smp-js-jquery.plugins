@@ -33,6 +33,16 @@ The options available are:
 * spreadRatio : a fraction (between 0 and 1) of the hight of the image to map to the reflection.
 * verticalOffset : the distance between the image and the reflection (it actually is the margin-top of the canvas element).
 
+### 2. Preloader (style 1)
+	<pre>
+		jQuery.preloader.create();
+		jQuery.preloader.show(myContainer);
+	</pre>
+	
+## Documentation and Examples
+
+(not yet available)
+
 ## Author
 
 [Sérgio Pereira] (http://www.sergiompereira.com)
